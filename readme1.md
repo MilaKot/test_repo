@@ -14,3 +14,5 @@ Changing your most recent commit is probably the most common rewriting of histor
 
 **git commit --amend**
 
+##### note from Mila
+
